@@ -1,7 +1,7 @@
 {
-    "name": "Your Application Name Here",
+    "name": "student_api_application",
     "version": "1.0.0",
-    "description": "Description Here",
+    "description": "Javascript advanced class api practice",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
